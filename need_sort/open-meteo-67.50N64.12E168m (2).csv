@@ -1,0 +1,5 @@
+latitude,longitude,elevation,utc_offset_seconds,timezone,timezone_abbreviation
+67.5,64.125,168.0,10800,Europe/Moscow,GMT+3
+
+time,temperature_2m (°C),wind_speed_10m (m/s)
+2025-06-22T01:30,4.4,4.53
